@@ -1,1 +1,0 @@
-# draw_many_pic
